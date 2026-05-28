@@ -112,7 +112,7 @@ These findings suggest that modern LLMs exhibit:
 # Benchmark Pipeline
 
 <p align="center">
-  <img src="./figures/architecture.png" width="750"> ``` id="j0of31"
+  <img src="./figures/architecture.png" width="750"> 
 </p>
 
 ---

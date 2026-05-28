@@ -101,13 +101,6 @@ These findings suggest that modern LLMs exhibit:
 
 ---
 
-# Persona Distribution Across Runs
-
-<p align="center">
-  <img src="results/persona_distribution.png" width="450">
-</p>
-
----
 
 # Benchmark Pipeline
 
